@@ -1,11 +1,10 @@
 {
-  "short_name": "OlympusDAO",
+  "short_name": "AlaDAO",
   "start_url": ".",
   "homepage": "./",
-  "name": "OlympusDAO",
+  "name": "AlaDAO",
   "launch_path": "/public/index.html",
-  "icons": [
-    {
+  "icons": [{
       "src": "favicon.ico",
       "sizes": "64x64 32x32 24x24 16x16",
       "type": "image/x-icon"
