@@ -16,7 +16,7 @@ interface IAddresses {
 }
 
 export const addresses: IAddresses = {
-  4: {
+  42: {
     DAI_ADDRESS: "0xF47CD8d2F4A8F7e259A0613678b252Ae41b6B88d", // ado
     OHM_ADDRESS: "0x20AAE80d75744c6eE12d73a5942ce7324db3Bfb4", // ado
     STAKING_ADDRESS: "0x8d92A7775586b76ef30A7fBC2d9Cb083C3c8BDDE", // ado
